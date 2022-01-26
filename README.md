@@ -15,3 +15,4 @@ Linguagem e Software utilizado no projeto:
 <li>Diagrama.Dawio</li>
 
 <h2> Diagrama Modelo Conceitual</h2>
+<img width="369" alt="Captura do diagrama de banco" src="https://user-images.githubusercontent.com/86928030/151178217-27f8fc26-9009-4993-8eec-964599c7bd0d.png">
